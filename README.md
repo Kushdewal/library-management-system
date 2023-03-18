@@ -1,2 +1,2 @@
-# library-management-system
-its a library management system which allows you to have student information, book information. 
+# Library-Management-System
+Its a Library Management System which allows you to keep record of student information, book information,etc. 
